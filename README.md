@@ -23,3 +23,10 @@ This repository contains code and info on using the dimensions.ai API
 2. European patent office
 3. World intellectual property
 4. ..more
+
+## Citation networks
+For some papers, **BOTH** publications citing paper of interest and publications cited by paper of interest are available. 
+E.g. doi: doi.org/10.1097/ede.0000000000000457
+
+For most, only publications citing paper of interest are available. 
+**WARNING** It appears that fewer citations are picked up than in google scholar, even though the citing papers are in dimensions
