@@ -25,6 +25,8 @@ This repository contains code and info on using the dimensions.ai API
 4. ..more
 
 ## Citation networks
+Networks can be viewd on excel and via the 
+
 For some papers, **BOTH** publications citing paper of interest and publications cited by paper of interest are available. 
 E.g. doi: doi.org/10.1097/ede.0000000000000457
 
