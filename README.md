@@ -22,4 +22,4 @@ This repository contains code and info on using the dimensions.ai API
 1. USPTO
 2. European patent office
 3. World intellectual property
-4 ...more
+4. ..more
